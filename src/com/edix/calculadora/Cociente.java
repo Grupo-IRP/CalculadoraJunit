@@ -1,6 +1,5 @@
 package com.edix.calculadora;
 
-
 /**
  * <h2>Clase Cociente, realiza la división de dos números reales o enteros, el
  * inverso de un número real y la raíz de un número.</h2>

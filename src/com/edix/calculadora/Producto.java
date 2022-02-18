@@ -1,6 +1,5 @@
 package com.edix.calculadora;
 
-
 /**
  * <h2>Clase Producto, realiza la multiplicación de dos o tres números reales o
  * enteros y la potencia de un número.</h2>

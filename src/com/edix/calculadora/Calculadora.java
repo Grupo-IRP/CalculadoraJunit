@@ -1,6 +1,5 @@
 package com.edix.calculadora;
 
-
 /**
  * <h2>Clase Calculadora, representa una calculadora y varios de sus métodos
  * para realizar operaciones aritméticas.</h2>

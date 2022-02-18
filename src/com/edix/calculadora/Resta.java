@@ -1,6 +1,5 @@
 package com.edix.calculadora;
 
-
 /**
  * <h2>Clase Resta, realiza la resta de dos o tres números reales o enteros y la
  * resta con valor acumulado.</h2>
